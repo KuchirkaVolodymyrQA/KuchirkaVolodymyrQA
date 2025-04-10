@@ -1,5 +1,5 @@
-Привіт 👋, мене звати Володимир Кучірка. Пристрасний молодший інженер із контролю якості з України 🔭 Зараз я працюю над вдосконаленням своїх важких навичок
+Hi 👋, I'm Volodimir Kuchirka A passionate Junior QA Engineer from Ukraine 🔭 I’m currently working on enhancement my hard skills
 
-📫 Як зі мною зв'язатися kuchirka.volodymyr1@gmail.com
+📫 How to reach me kuchirka.volodymyr1@gmail.com
 
-📄 Дізнайтеся про мій досвід https://djinni.co/q/f5d4490ed1/
+📄 Know about my experiences https://djinni.co/q/f5d4490ed1/
